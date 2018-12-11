@@ -1,16 +1,16 @@
 {
-   "firstName": "Lorem",
-   "lastName": "Ipsum",
-   "yearBirth": 1234,
-   "yearDeath": 5678,
-   "careerLength": {
-       "hobby": [1990, 1995],
-       "professional": [1995, 2000],
-       "reconversion": [2000, 2005]
-   },
-   "earlyPeriod": {
-      "sportNews": [
-       {
+ "firstName": "Lorem",
+ "lastName": "Ipsum",
+ "yearBirth": 1234,
+ "yearDeath": 5678,
+ "careerLength": {
+     "hobby": [1990, 1995],
+     "professional": [1995, 2000],
+     "reconversion": [2000, 2005]
+ },
+ "earlyPeriod": {
+    "sportNews": [
+      {
          "_id": 1,
          "type": "cf. readme",
          "keyYear": 1985,
@@ -28,7 +28,7 @@
          "descriptionMedia": "lorem lorem lorem"
        }
      ],
-     "personalNews": [
+    "personalNews": [
       {
         "_id": 3,
         "type": "évènement personnel",
@@ -48,7 +48,7 @@
     ]
   },
   "proPeriod": {
-      "sportNews": [
+    "sportNews": [
       {
         "_id": 5,
         "type": "",
@@ -56,16 +56,39 @@
         "description": "",
         "mediatisation": ,
         "descriptionMedia": ""
-     }
-   ],
-   "personalNews": [
-    {
-      "_id": 6,
-      "type": "évènement personnel",
-      "keyYear": 1991,
-      "description": "lorem lorem lorem",
-      "mediatisation": false,
-      "descriptionMedia": null
-    }
-   ]
+      }
+    ],
+    "personalNews": [
+      {
+        "_id": 6,
+        "type": "évènement personnel",
+        "keyYear": 1991,
+        "description": "lorem lorem lorem",
+        "mediatisation": false,
+        "descriptionMedia": null
+      }
+    ]
+  },
+  "reconversionPeriod": {
+    "sportNews": [
+      {
+        "_id": 5,
+        "type": "",
+        "keyYear": ,
+        "description": "",
+        "mediatisation": ,
+        "descriptionMedia": ""
+      }
+    ],
+    "personalNews": [
+      {
+        "_id": 6,
+        "type": "évènement personnel",
+        "keyYear": 1991,
+        "description": "lorem lorem lorem",
+        "mediatisation": false,
+        "descriptionMedia": null
+      }
+    ]
+  }
 }
