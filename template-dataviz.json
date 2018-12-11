@@ -4,9 +4,9 @@
    "yearBirth": ,
    "yearDeath": ,
    "careerLength": {
-       "hobby": "",
-       "professional": "",
-       "reconversion" ""
+       "hobby": [],
+       "professional": [],
+       "reconversion": []
    },
    "earlyPeriod": [
      {
