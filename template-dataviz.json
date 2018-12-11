@@ -1,0 +1,581 @@
+{
+   "firstName": "",
+   "lastName": "",
+   "yearBirth": ,
+   "yearDeath": ,
+   "careerLength": {
+       "hobby": "",
+       "professional": "",
+       "reconversion" ""
+   },
+   "earlyPeriod": [
+     {
+       "sportNews": [
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         }
+       ]
+     },
+     {
+       "personalNews": [
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         }
+       ]
+     }
+   ],
+   "proPeriod": [
+     {
+       "sportNews": [
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         }
+       ]
+     },
+     {
+       "personalNews": [
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         }
+       ]
+     }
+   ],
+   "reconversionPeriod": [
+     {
+       "sportNews": [
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         }
+       ]
+     },
+     {
+       "personalNews": [
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         },
+         {
+           "keyYear": ,
+           "description": "",
+           "mediatisation": "",
+           "descriptionMedia": ""
+         }
+       ]
+     }
+   ]
+}
